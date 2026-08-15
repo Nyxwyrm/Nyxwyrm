@@ -62,3 +62,5 @@ I'm currently building my foundation in programming and cybersecurity.
 > // more projects incoming
 
 ---
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
