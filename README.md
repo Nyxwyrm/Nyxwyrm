@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
+# NYXWYRM
 
-<!--
-**Nyxwyrm/Nyxwyrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### JN4ID AROSH
 
-Here are some ideas to get you started:
+`Python` · `C` · `Cybersecurity` · `AI`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*learning • building • experimenting*
+
+</div>
+
+---
+
+## `> whoami`
+
+> I'm Junaid Arosh, known online as **Nyxwyrm**.
+
+I'm a beginner developer exploring **programming, cybersecurity and artificial intelligence**.
+
+Currently learning by building small projects, experimenting with ideas, and trying to understand how things work under the hood.
+
+```text
+USER        : JUN4ID AROSH
+ALIAS       : NYXWYRM
+FOCUS       : CODE / SECURITY / AI
+LANGUAGES   : PYTHON / C
+ENVIRONMENT : LINUX / GITHUB
+STATUS      : LEARNING...
+
+> interests
+
+🐍 Python
+Scripting · automation · experiments
+
+⚙️ C Programming
+Fundamentals · problem solving · low-level concepts
+
+🔐 Cybersecurity
+Security concepts · ethical learning · experimentation
+
+🤖 Artificial Intelligence
+AI tools · intelligent systems · exploration
+
+> currently_learning
+
+Python          ███████░░░░░
+C               █████░░░░░░░
+Cybersecurity   ████░░░░░░░░
+AI              ████░░░░░░░░
+Arch            ████░░░░░░░░
+Git & GitHub    ███░░░░░░░░░
+
+> tech_stack
+
+I'm currently building my foundation in programming and cybersecurity.
+
+
+---
+
+### `NYXWYRM // JUN4ID AROSH`
+
+> // more projects incoming
+
+---
