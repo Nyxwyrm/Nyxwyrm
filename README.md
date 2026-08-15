@@ -63,4 +63,4 @@ I'm currently building my foundation in programming and cybersecurity.
 
 ---
 
-![snake gif](https://github.com/Nyxwyrm/Nyxwyrm/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Nyxwyrm/Nyxwyrm/blob/output/github-snake.svg)
